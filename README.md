@@ -1,7 +1,8 @@
 # Shopping list Web
 
 ###
-This is a simple shopping list applicastion where you can add items to your cart and also clear them if need be.
+Here is the live link:
+This is a simple shopping list application where you can add items to your cart and also clear them if need be.
 I generated it through the use of HTML,CSS and Javascript all together.
 
 The Html basically contains shopping list structure and content,and the input field that allows users to add items to it.
