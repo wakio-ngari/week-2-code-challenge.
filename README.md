@@ -1,7 +1,9 @@
 # Shopping list Web
 
 ###
-Here is the live link:
+Here is the live link: https://wakio-ngari.github.io/week-2-code-challenge./
+
+
 This is a simple shopping list application where you can add items to your cart and also clear them if need be.
 I generated it through the use of HTML,CSS and Javascript all together.
 
